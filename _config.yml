@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.131293
+color:
+  saturation: 0.2206545
+  lightness: 0.01779387
+  brandStrength: 0.2951956
+  brandColors:
+    - '#FFFFFF'
+    - '#0E0C0D'
+    - '#E2B264'
+    - '#776E5B'
+    - '#91FFFF'
+  rhythmicContrast: 0.5420919
+name: BradleyAtlantic
